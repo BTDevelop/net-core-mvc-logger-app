@@ -1,0 +1,56 @@
+﻿@model Product
+<div class="container">
+    <hr>
+    @using (Html.BeginForm("Update", "Home", FormMethod.Post))
+    {
+        <table class="table">
+            <tr>
+                <td>
+                    Name
+                </td>
+                <td>
+                    <input type="text" class="form-control" value="@Model.Name" id="Name" name="Name">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Seri Number
+                </td>
+                <td>
+                    <input type="text" class="form-control" value="@Model.SeriNumber" id="SeriNumber" name="SeriNumber">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Count
+                </td>
+                <td>
+                    <input type="text" class="form-control" value="@Model.Count" id="Count" name="Count">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Price
+                </td>
+                <td>
+                    <input type="text" class="form-control" value="@Model.Price" id="Price" name="Price">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @*<input type="submit" value=@btnText class="btn btn-warning">*@
+                     @if(Model.Id>0)
+                     {
+                         <input type="submit" value="Güncelle" class="btn btn-danger">
+                     }
+                     else
+                     {
+                          <input type="submit" value="Kaydet" class="btn btn-warning">
+                     }
+                     
+                </td>
+            </tr>
+        </table>
+        <input type="hidden" id="ID" name="ID" value="@Model.Id">
+    }
+</div>

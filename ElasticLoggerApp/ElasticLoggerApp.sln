@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticLoggerApp", "ElasticLoggerApp\ElasticLoggerApp.csproj", "{F1BE0637-D32C-4AAE-B190-011627A58BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1BE0637-D32C-4AAE-B190-011627A58BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BE0637-D32C-4AAE-B190-011627A58BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BE0637-D32C-4AAE-B190-011627A58BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BE0637-D32C-4AAE-B190-011627A58BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {762E9544-31A4-42EC-9F50-1B1F026A6FF1}
+	EndGlobalSection
+EndGlobal

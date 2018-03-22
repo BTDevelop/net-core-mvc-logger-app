@@ -1,0 +1,11 @@
+c:\users\burak tahtacıoğlu\source\repos\ElasticLoggerApp\ElasticLoggerApp\obj\Debug\netcoreapp2.0\ElasticLoggerApp.csprojResolveAssemblyReference.cache
+c:\users\burak tahtacıoğlu\source\repos\ElasticLoggerApp\ElasticLoggerApp\obj\Debug\netcoreapp2.0\ElasticLoggerApp.csproj.CoreCompileInputs.cache
+c:\users\burak tahtacıoğlu\source\repos\ElasticLoggerApp\ElasticLoggerApp\obj\Debug\netcoreapp2.0\ElasticLoggerApp.AssemblyInfoInputs.cache
+c:\users\burak tahtacıoğlu\source\repos\ElasticLoggerApp\ElasticLoggerApp\obj\Debug\netcoreapp2.0\ElasticLoggerApp.AssemblyInfo.cs
+C:\Users\Burak Tahtacıoğlu\source\repos\ElasticLoggerApp\ElasticLoggerApp\bin\Debug\netcoreapp2.0\ElasticLoggerApp.deps.json
+C:\Users\Burak Tahtacıoğlu\source\repos\ElasticLoggerApp\ElasticLoggerApp\bin\Debug\netcoreapp2.0\ElasticLoggerApp.runtimeconfig.json
+C:\Users\Burak Tahtacıoğlu\source\repos\ElasticLoggerApp\ElasticLoggerApp\bin\Debug\netcoreapp2.0\ElasticLoggerApp.runtimeconfig.dev.json
+C:\Users\Burak Tahtacıoğlu\source\repos\ElasticLoggerApp\ElasticLoggerApp\bin\Debug\netcoreapp2.0\ElasticLoggerApp.dll
+C:\Users\Burak Tahtacıoğlu\source\repos\ElasticLoggerApp\ElasticLoggerApp\bin\Debug\netcoreapp2.0\ElasticLoggerApp.pdb
+C:\Users\Burak Tahtacıoğlu\source\repos\ElasticLoggerApp\ElasticLoggerApp\obj\Debug\netcoreapp2.0\ElasticLoggerApp.dll
+C:\Users\Burak Tahtacıoğlu\source\repos\ElasticLoggerApp\ElasticLoggerApp\obj\Debug\netcoreapp2.0\ElasticLoggerApp.pdb
